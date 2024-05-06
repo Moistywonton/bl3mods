@@ -19,5 +19,5 @@
 ### 
 
 # Legendary Price Scaling
-SparkPatchEntry,(1,2,0,),/Game/GameData/Economy/Economy_ItemPrices.Economy_ItemPrices,Multiplier_Rarity_Legendary,Price_2_550251FA4E5602605F7C6A98D2DCBDCF,0,,10.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Economy/Economy_ItemPrices.Economy_ItemPrices,Multiplier_Rarity_Legendary,Price_2_550251FA4E5602605F7C6A98D2DCBDCF,0,,0.01
 
